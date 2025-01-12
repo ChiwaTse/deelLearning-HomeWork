@@ -1,0 +1,2 @@
+# deelLearning-HomeWork
+这是我们组的深度学习作业，课题是通过微调smolLM模型实现抄袭检测
